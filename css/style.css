@@ -133,6 +133,7 @@ nav li{
   .container>*{
 	  max-height: 500px;
 	  max-width: 500px;
+	  margin: auto;
   }
   .umsi{
 	grid-column: 1/span 1; 
