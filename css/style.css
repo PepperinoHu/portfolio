@@ -171,6 +171,14 @@ nav li{
   
 	 align-self: center;
   }  */
+label {
+	display: inline-block;
+	text-align: left;
+  }
+  .buttonHolder,.inputHolder{ text-align: center; }
+  .buttonHolder{
+	margin-top: 10px;
+}​
 #logo{
     animation-name: animation_logo; 
     animation-duration: 5s;
